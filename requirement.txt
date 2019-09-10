@@ -3,3 +3,4 @@ pip
 virtualenv
 opencv-python
 pillow
+opencv-contrib-python
