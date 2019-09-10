@@ -2,4 +2,4 @@ python3
 pip
 virtualenv
 opencv-python
-
+pillow
